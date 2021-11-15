@@ -106,5 +106,6 @@ console.log("true")  // op=> false
 if(5 === 5)
 console.log("true")  // op=> true
 
+//String interpolation new feature in js
 
 
