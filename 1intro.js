@@ -1,6 +1,7 @@
 console.log("hello pepcoding");//print
 // semicolon is not imp to write
 let a=null; //declare a variable 
+
 console.log(a);
 //Variable types : PRIMITIVE -> boolean,null,String,number,symbol;
 
