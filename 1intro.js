@@ -4,7 +4,7 @@ let a=null; //declare a variable
 
 console.log(a);
 //Variable types : PRIMITIVE -> boolean,null,String,number,symbol;
-
+llll=3;
 a=10;
 a=10.1;
 a="string";
